@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: aqua;
+}
+.header ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+.header ul li a{
+    font-size: 25px;
+    text-decoration: none;
+}
+
+/* registration page styling */
+.registration{
+    width: 500px;
+    margin: auto;
+}
+
+#show p{
+    height: 40px;
+    
+    background-color: #f5f5f5;
+    box-shadow: 2px 1px 1px gray;
+    padding-left: 40px;
+}
+#update{
+    width: 300px;
+    margin: auto;
+   
+}
